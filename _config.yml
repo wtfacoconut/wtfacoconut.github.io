@@ -7,7 +7,9 @@ url: "https://wtfacoconut.github.io" # the base hostname & protocol for your sit
 github_username:  wtfacoconut
 
 # Build settings
-theme: minima
+show_downloads: true
+theme: jekyll-theme-cayman
+
 plugins:
   - jekyll-feed
 
